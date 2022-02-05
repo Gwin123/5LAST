@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/DNS/Desktop/ler/last/libs/data_structures/vector/vector.c
-vector.h
-C:/Users/DNS/Desktop/ler/last/libs/data_structures/vector/vector.h
-malloc.h
--
-
 C:/Users/DNS/Desktop/ler/last/libs/data_structures/vector/vector.h
 stdint.h
 -
@@ -22,5 +16,11 @@ memory.h
 stdio.h
 -
 stdbool.h
+-
+
+C:/Users/DNS/Desktop/ler/last/main.c
+libs/data_structures/vector/vector.h
+C:/Users/DNS/Desktop/ler/last/libs/data_structures/vector/vector.h
+assert.h
 -
 
